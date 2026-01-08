@@ -35,7 +35,7 @@ wavedump_processor/
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/wihann00/wavepro
 cd wavedump_processor
 ```
 
