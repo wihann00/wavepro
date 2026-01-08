@@ -296,29 +296,13 @@ For each waveform, the processor extracts:
 
 All timing values use linear interpolation for sub-sample precision.
 
-## Future Features
-
-- ✅ Binary and ASCII file support
-- ✅ Batch processing
-- ✅ Progress bars
-- ✅ Configurable channel parameters
-- 🚧 SLURM job submission for cluster parallelization
-- 🚧 Additional pulse parameters (rise time, fall time)
-- 🚧 Pulse shape discrimination
-- 🚧 Real-time monitoring dashboard
-- 🚧 Automated quality checks
-
 ## Contributing
 
 Suggestions and contributions are welcome! Please test thoroughly before submitting changes.
 
-## License
-
-[Specify your license here]
-
 ## Contact
 
-For issues, questions, or contributions, please contact [your contact information].
+For issues, questions, or contributions, please contact Wi Han Ng at wihann@student.unimelb.edu.au.
 
 ---
 
